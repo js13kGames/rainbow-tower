@@ -36,4 +36,4 @@ Fake‑3D cylinder
 - **Gamepad support**        
 - **Mobile and tablet support**                          
 
-[Post on my blog](https://nbonnici.info/en/blog/js13k-2026-rainbow-tower))
+[Post on my blog](https://nbonnici.info/en/blog/js13k-2026-rainbow-tower)
